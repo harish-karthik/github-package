@@ -1,10 +1,10 @@
 {
-  "name": "github-package",
+  "name": "@harish-karthik/github-package",
   "version": "1.0.0",
   "description": "webpack config trial",
   "main": "index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@harish-karthik"
+    "registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
